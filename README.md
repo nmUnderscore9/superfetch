@@ -1,3 +1,5 @@
+# 😏Preview
+<img src="https://github.com/user-attachments/assets/e7f3ce2d-b7e8-489e-a414-9218c209a54c">
 
 # ❓About
 An extremely customisable and minimalist competitor to neofetch how minimal may you ask well Neofetch takes roughly 4000 lines of code and 2MB while Superfetch takes only 0.021424MB and allows for faster input for the user
